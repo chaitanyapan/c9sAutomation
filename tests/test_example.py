@@ -7,3 +7,8 @@ def test_example_page():
         page.goto("https://example.com")
         assert "Example Domain" in page.title()
         browser.close()
+
+
+def test_example_page(page):
+    page.goto("https://example.com")
+    assert "Example Domain" in page.title()
