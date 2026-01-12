@@ -165,13 +165,4 @@ source .venv/bin/activate
 
 ---
 
-## ✅ Next Steps
-
-* Add Playwright pytest fixtures
-* Run tests in headless mode
-* Configure GitHub Actions CI
-* Use async Playwright APIs
-
----
-
 Happy Testing! 🎭🐍
