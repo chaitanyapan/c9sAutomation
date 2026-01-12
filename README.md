@@ -1,5 +1,4 @@
-# c9sAutomation
-Here’s a **clean, professional README.md** you can copy directly into your GitHub repository for **Playwright + pytest in GitHub Codespaces**.
+# c9sAutomation **Playwright + pytest in GitHub Codespaces**.
 
 ---
 
