@@ -7,3 +7,4 @@ pyee
 Pygments
 pytest
 typing_extensions
+pytest-playwright
